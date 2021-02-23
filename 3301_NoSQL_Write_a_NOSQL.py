@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""NoSQL database written in Python"""
+"""NoSQL database written in Python by franklin"""
 
 # Standard library imports
 import socket
